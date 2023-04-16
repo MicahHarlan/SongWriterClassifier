@@ -1,4 +1,8 @@
 # SongWriterClassifier
+
+!!!IMPORTANT!!! 
+Some of the programs will not work, unless you download: https://nlp.stanford.edu/projects/glove/ specifically the file named "glove.6B.50d.txt". This text file is too big for github
+
 This program uses machine learning to classify song lyrics into three categories: Nirvana, The Beatles, and Black Sabbath. It uses the spacy, keras, and numpy libraries.
 
 Usage
